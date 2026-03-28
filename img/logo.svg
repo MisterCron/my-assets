@@ -1,35 +1,35 @@
-<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
   <!-- Вытянутый щит -->
-  <path d="M12 2 
-           C8.5 4 6 4.8 4 5.5 
-           V11 
-           C4 17.5 7.5 21 12 22.5 
-           C16.5 21 20 17.5 20 11 
-           V5.5 
-           C18 4.8 15.5 4 12 2 Z"
+  <path d="M256 42.67
+           C184.89 85.33 128 102.4 85.33 119.47
+           V238.93
+           C85.33 376.89 159.29 451.56 256 483.56
+           C352.71 451.56 426.67 376.89 426.67 238.93
+           V119.47
+           C384 102.4 327.11 85.33 256 42.67 Z"
         stroke="#9CA3AF"
-        stroke-width="1.2"
+        stroke-width="25.6"
         stroke-linejoin="round"/>
 
   <!-- Головка ключа -->
-  <circle cx="12" cy="9.3" r="2.1"
+  <circle cx="256" cy="199.68" r="44.8"
           stroke="#9CA3AF"
-          stroke-width="1.2"/>
+          stroke-width="25.6"/>
 
   <!-- Удлинённый стержень -->
-  <path d="M12 11.4 V17.5"
+  <path d="M256 244.48 V375.47"
         stroke="#9CA3AF"
-        stroke-width="1.2"
+        stroke-width="25.6"
         stroke-linecap="round"/>
 
   <!-- Зубцы -->
-  <path d="M12 15 H14.2"
+  <path d="M256 324.27 H302.93"
         stroke="#9CA3AF"
-        stroke-width="1.2"
+        stroke-width="25.6"
         stroke-linecap="round"/>
 
-  <path d="M12 16.6 H14"
+  <path d="M256 354.13 H302.93"
         stroke="#9CA3AF"
-        stroke-width="1.2"
+        stroke-width="25.6"
         stroke-linecap="round"/>
 </svg>
