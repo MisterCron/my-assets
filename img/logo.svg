@@ -1,0 +1,35 @@
+<svg width="256" height="256" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Вытянутый щит -->
+  <path d="M12 2 
+           C8.5 4 6 4.8 4 5.5 
+           V11 
+           C4 17.5 7.5 21 12 22.5 
+           C16.5 21 20 17.5 20 11 
+           V5.5 
+           C18 4.8 15.5 4 12 2 Z"
+        stroke="white"
+        stroke-width="1.2"
+        stroke-linejoin="round"/>
+
+  <!-- Головка ключа -->
+  <circle cx="12" cy="9.3" r="2.1"
+          stroke="white"
+          stroke-width="1.2"/>
+
+  <!-- Удлинённый стержень -->
+  <path d="M12 11.4 V17.5"
+        stroke="white"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
+
+  <!-- Зубцы -->
+  <path d="M12 15 H14.2"
+        stroke="white"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
+
+  <path d="M12 16.6 H14"
+        stroke="white"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
+</svg>
